@@ -1,0 +1,10 @@
+name: root
+dependencies:
+  - numpy
+  - jupyter
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - pip
+  - spacy
+  - tensorflow-gpu

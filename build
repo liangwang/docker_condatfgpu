@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# vim: filetype=sh:
+
+docker build -t gcr-repos.redmond.corp.microsoft.com:5000/liawan/conda3_py36_tf13_gpu .
